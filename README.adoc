@@ -1,0 +1,6 @@
+
+Demos generated content I need to support with antora.
+
+First run bash ./scripts/generate.sh which outputs the content to build/generated/
+
+That content should be included in the content source for each content source.
